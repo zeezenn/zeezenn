@@ -38,4 +38,4 @@
 
 
 
-background: url(![image](https://github.com/user-attachments/assets/c981ef9b-066b-456b-a888-3290570c6ce4).png);
+background: url(https://github.com/user-attachments/assets/c981ef9b-066b-456b-a888-3290570c6ce4.png);
