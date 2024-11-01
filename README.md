@@ -35,7 +35,3 @@
 ![image](https://github.com/user-attachments/assets/0d51aadd-7604-40f0-a0ef-8740016e6600)
 ![image](https://github.com/user-attachments/assets/60562ed5-5731-414f-afd5-5fe0e0cb9e7a)
 ![image](https://github.com/user-attachments/assets/5cb3022b-0bb3-4df5-8853-a348de69af39)
-
-
-
-background: url(https://github.com/user-attachments/assets/c981ef9b-066b-456b-a888-3290570c6ce4.png);
